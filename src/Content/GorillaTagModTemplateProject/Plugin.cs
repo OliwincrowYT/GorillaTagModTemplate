@@ -2,6 +2,7 @@
 using BepInEx;
 using UnityEngine;
 using Utilla;
+using Utilla.Attributes;
 
 namespace GorillaTagModTemplateProject
 {
